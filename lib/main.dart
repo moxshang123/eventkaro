@@ -154,6 +154,8 @@ class _HomePageState extends State<HomePage> {
                 CategoryItem(title: 'DJ/Concert', icon: Icons.music_note),
                 CategoryItem(title: 'Birthday', icon: Icons.cake),
                 CategoryItem(title: 'Festival', icon: Icons.celebration),
+                CategoryItem(title: 'Religious', icon: Icons.temple_hindu),
+                CategoryItem(title: 'Miscellaneous', icon: Icons.more_horiz),
               ],
             ),
           ),
